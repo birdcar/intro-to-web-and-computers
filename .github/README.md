@@ -31,13 +31,13 @@ learning other things or encountering errors along the way. The more "kindling"
 in your pile, the more things can "ignite" when you encounter concepts, errors,
 or code you've never seen before.
 
-- [Khan Academy: How Computers Work](https://www.khanacademy.org/computing/computer-science/how-computers-work2)
+- [Khan Academy: How Computers Work](https://www.khanacademy.org/computing/computer-science/computers-and-internet-code-org/how-computers--work/v/khan-academy-and-codeorg-introducing-how-computers-work)
 - [History of the Internet](https://www.youtube.com/watch?v=9hIQjrMHTv4)
 - [An Overview of the Web](http://marksheet.io/introduction.html)
   - [Anatomy of a URL](https://doepud.co.uk/blog/anatomy-of-a-url)
 - [What is the Internet, really?](https://www.youtube.com/watch?v=XE_FPEFpHt4)
 - [20 Things](https://dusk.geo.orst.edu/gis/Google_Book_20Things.pdf)
-- [Khan Academy: Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)
+- [Khan Academy: Internet 101](https://www.khanacademy.org/computing/computer-science/computers-and-internet-code-org/internet-works-intro/v/what-is-the-internet)
 
 ### Part 2: Meet your Computer all over again (via the Terminal)
 
